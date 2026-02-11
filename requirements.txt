@@ -1,0 +1,6 @@
+pyperclip
+requests
+configparser
+ulid-py
+nanoid
+cryptography

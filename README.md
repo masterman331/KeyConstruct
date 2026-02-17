@@ -322,4 +322,4 @@ You can add your own dictionary files to this directory. Ensure they are named w
 **Note on Linux/macOS Testing:** This tool has primarily been developed and tested on Windows environments. While the `install.sh` and `uninstall.sh` scripts are designed to be compatible with Linux/macOS, thorough testing on these platforms has not been performed. If you encounter any issues, please report them.
 
 > **Disclaimer:**  
-> This project has been vibe-coded please use it cautiously. - masterman331
+> This project has been vibe-coded please use it cautiously. - Masterman331
